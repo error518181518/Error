@@ -19,12 +19,12 @@ a{
     color: azure;
     background-color: black;
     padding: 20px;
+    border: 2px dashed rgb(148, 148, 148);
 }
 
 .alignContent {
     text-align: center;
     text-decoration: none;
-    color: aliceblue;
 }
 
 .linkin {
@@ -63,10 +63,6 @@ a{
     text-align: center;
 }
 
-.indexf {
-    color: aliceblue;
-}
-
 .warn {
     border: 2px solid black;
 }
@@ -80,5 +76,4 @@ a{
     background: rgb(116, 116, 116); 
     border-radius: 7px;
   }
-
   
