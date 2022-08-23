@@ -84,6 +84,7 @@ a{
 ::-webkit-scrollbar-thumb {
     background: rgb(116, 116, 116); 
     border-radius: 7px;
+    flex-wrap: wrap;
   }
   
   
