@@ -9,6 +9,7 @@ a{
       padding: 10px;
        width: 100%;
         top: 0%;
+        flex-wrap: wrap;
 }
 
 .footer-it {
@@ -44,10 +45,12 @@ a{
     color: black;
     text-align: center;
     border: 2px solid black;
+    flex-wrap: wrap;
   }
 
 .ep {
     color: black;
+    flex-wrap: wrap;
 }
 
 .ep:hover {
@@ -61,10 +64,12 @@ a{
     overflow-x: hidden;
     overflow-y: auto;
     text-align: center;
+    flex-wrap: wrap;
 }
 
 .warn {
     border: 2px solid black;
+    flex-wrap: wrap;
 }
 
 .heading {
@@ -80,4 +85,5 @@ a{
     background: rgb(116, 116, 116); 
     border-radius: 7px;
   }
+  
   
