@@ -13,13 +13,10 @@ a{
 
 .footer-it {
     display: flex;
-    justify-content:space-evenly;
+    justify-content: space-evenly;
     flex-wrap: wrap;
-    
     color: azure;
-    background-color: black;
-    padding: 20px;
-    border: 2px dashed rgb(148, 148, 148);
+    background-color: rgb(94, 94, 94);
 }
 
 .alignContent {
