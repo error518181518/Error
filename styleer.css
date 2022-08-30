@@ -4,11 +4,13 @@ a{
 
 .navi-bar {
     position: fixed;
+    justify-content: space-evenly;
      background-color: rgb(26, 26, 26,0.8);
       padding: 30px;
        width: 100%;
         top: 0%;
         flex-wrap: wrap;
+        text-align: center;
 }
 
 .footer-it {
