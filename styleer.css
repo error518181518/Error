@@ -46,6 +46,7 @@ a{
     color: black;
     text-align: center;
     border: 2px solid black;
+    border-radius: 20px;
     flex-wrap: wrap;
   }
 
